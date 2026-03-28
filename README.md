@@ -1,5 +1,4 @@
 <p align="center">RESEARCH PROJECT</p>
-
 <h1 align="center">Urban Mobility AI</h1>
 
 <h2 align="center">LLM for Logistical Analysis</h2>
