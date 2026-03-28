@@ -40,10 +40,7 @@ This approach:
 
 ## 02. Key Features  
 
-## ✨ Key Features  
-
 | | |
-|--|--|
 | ✦ Hybrid query handling with LLM-based intent routing | ✦ Retrieval-augmented generation over NYC taxi trip records |
 | ✦ Tool-based computation for distance, fare, route, and trip planning | ✦ Zone and borough resolution for taxi location identifiers |
 | ✦ Historical route statistics derived from trip-level data | ✦ Optional real-time traffic via Google Distance Matrix API |
