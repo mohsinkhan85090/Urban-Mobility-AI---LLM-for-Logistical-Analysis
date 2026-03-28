@@ -11,8 +11,7 @@ to study urban transportation patterns using <b>NYC taxi trip data</b>.
 </p>
 
 <p align="center">
-<b>Keywords:</b> LLM Routing · RAG Pipeline · NYC Taxi Data · Real-time Traffic · Weather Signals
-</p>
+
 
 ---
 
