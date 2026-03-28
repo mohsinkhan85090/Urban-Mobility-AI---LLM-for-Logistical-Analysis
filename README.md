@@ -64,7 +64,9 @@ User Query Input
       └── HYBRID ───────────► Tool First → RAG Supplement
                                 │
                                 ▼
+
                     Natural Language Response
+```
 ---
 
 ##  Query Routing  
