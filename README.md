@@ -49,20 +49,22 @@ This approach:
 
 ---
 
-## 03. System Architecture  
+## 03 System Architecture  
+
+```text
 User Query Input
-│
-▼
-LLM Router
-│
-├── ANALYTICAL ───────► Vector Retrieval + RAG
-│ │
-├── COMPUTATIONAL ────► Structured Tool Execution
-│ │
-└── HYBRID ───────────► Tool First → RAG Supplement
-│
-▼
-Natural Language Response
+      │
+      ▼
+   LLM Router
+      │
+      ├── ANALYTICAL ───────► Vector Retrieval + RAG
+      │                         │
+      ├── COMPUTATIONAL ────► Structured Tool Execution
+      │                         │
+      └── HYBRID ───────────► Tool First → RAG Supplement
+                                │
+                                ▼
+                    Natural Language Response
 ---
 
 ##  Query Routing  
