@@ -16,7 +16,7 @@ to study urban transportation patterns using <b>NYC taxi trip data</b>.
 
 ---
 
-## 📖 01. Research Motivation  
+## 01. Research Motivation  
 
 Urban transportation systems generate enormous volumes of operational data, yet turning that data into actionable insight typically requires both statistical reasoning and natural language interaction.  
 
@@ -30,7 +30,7 @@ This approach:
 - Reduces hallucination risk  
 - Improves interpretability  
 
-### 🔍 Areas of Investigation:
+###  Areas of Investigation:
 - Urban logistics analysis  
 - Demand-aware mobility reasoning  
 - Natural language querying over transport datasets  
@@ -39,7 +39,7 @@ This approach:
 
 ---
 
-## ✨ 02. Key Features  
+## 02. Key Features  
 
 - ✦ Hybrid query handling with LLM-based intent routing  
 - ✦ Retrieval-Augmented Generation over NYC taxi trip records  
@@ -52,11 +52,11 @@ This approach:
 
 ---
 
-## 🏗️ 03. System Architecture  
+## 03. System Architecture  
 
 ---
 
-## 🔀 Query Routing  
+##  Query Routing  
 
 | Type           | Execution Path                          | Example Query |
 |----------------|----------------------------------------|--------------|
@@ -66,7 +66,7 @@ This approach:
 
 ---
 
-## ⚙️ Pipeline Steps  
+##  Pipeline Steps  
 
 1. **User Query Input**  
    Natural language queries such as:  
@@ -88,7 +88,7 @@ This approach:
 
 ---
 
-## 📂 04. Project Modules  
+##  04. Project Modules  
 
 ### Core Files  
 
@@ -104,7 +104,7 @@ This approach:
 
 ---
 
-### 🧰 Tooling Layer  
+### Tooling Layer  
 
 | File | Description |
 |------|------------|
@@ -116,7 +116,7 @@ This approach:
 
 ---
 
-### 🌐 External Services  
+### External Services  
 
 | File | Description |
 |------|------------|
@@ -125,7 +125,7 @@ This approach:
 
 ---
 
-## 📊 05. Dataset  
+## 05. Dataset  
 
 The system uses **NYC taxi trip data** as its primary knowledge base.
 
@@ -135,6 +135,4 @@ The system uses **NYC taxi trip data** as its primary knowledge base.
 
 ---
 
-## 📌 Project Tagline  
-
-**Urban Mobility AI · Research Project · NYC Taxi Trip Data**
+<p align="center"><b>Urban Mobility AI · Research Project · NYC Taxi Trip Data</b></p>
