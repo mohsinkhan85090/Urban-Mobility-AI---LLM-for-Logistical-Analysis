@@ -40,14 +40,12 @@ This approach:
 
 ## 02. Key Features  
 
-- ✦ Hybrid query handling with LLM-based intent routing  
-- ✦ Retrieval-Augmented Generation over NYC taxi trip records  
-- ✦ Tool-based computation (distance, fare, route, trip planning)  
-- ✦ Zone and borough resolution for taxi location identifiers  
-- ✦ Historical route statistics from trip-level data  
-- ✦ Optional real-time traffic (Google Distance Matrix API)  
-- ✦ Weather-aware trip adjustment (OpenWeatherMap API)  
-- ✦ Modular Python architecture for experimentation and extension  
+| ✦ Feature | ✦ Feature |
+|----------|----------|
+| Hybrid query handling with LLM-based intent routing | Retrieval-augmented generation over NYC taxi trip records |
+| Tool-based computation for distance, fare, route, and trip planning | Zone and borough resolution for taxi location identifiers |
+| Historical route statistics derived from trip-level data | Optional real-time traffic via Google Distance Matrix API |
+| Weather-aware trip adjustment via OpenWeatherMap API | Modular Python architecture for experimentation and extension |
 
 ---
 
