@@ -1,9 +1,18 @@
-# 🚖 Urban Mobility AI  
-## LLM for Logistical Analysis  
+<p align="center">RESEARCH PROJECT</p>
 
-A hybrid intelligence assistant combining **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **structured analytical tools** to study urban transportation patterns using **NYC taxi trip data**.
+<h1 align="center">Urban Mobility AI</h1>
 
-**Keywords:** LLM Routing · RAG Pipeline · NYC Taxi Data · Real-time Traffic · Weather Signals  
+<h2 align="center">LLM for Logistical Analysis</h2>
+
+<p align="center">
+A hybrid intelligence assistant combining <b>Large Language Models (LLMs)</b>, 
+<b>Retrieval-Augmented Generation (RAG)</b>, and <b>structured analytical tools</b> 
+to study urban transportation patterns using <b>NYC taxi trip data</b>.
+</p>
+
+<p align="center">
+<b>Keywords:</b> LLM Routing · RAG Pipeline · NYC Taxi Data · Real-time Traffic · Weather Signals
+</p>
 
 ---
 
