@@ -141,7 +141,9 @@ User Query Input
 ## 05. Dataset  
 
 The system uses **NYC taxi trip data** as its primary knowledge base.
-
+```
+data/merged_taxi_data.csv
+```
 ### Usage:
 - Powers the **RAG retrieval pipeline**  
 - Provides **statistical estimates for tools**  
